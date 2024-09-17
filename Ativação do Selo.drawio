@@ -111,6 +111,9 @@
         <mxCell id="UZv3Vb-UR4CIhAYLGmYC-6" value="ativa SKU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2b4e8129b02d487f-2">
           <mxGeometry x="432.5" y="230" width="67.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UZv3Vb-UR4CIhAYLGmYC-7" value="SKU, tipo serviço" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="340" y="10" width="125" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="2b4e8129b02d487f-3" value="INMETRO" style="swimlane;html=1;startSize=20;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1" collapsed="1">
           <mxGeometry y="290" width="860" height="30" as="geometry">
             <mxRectangle y="290" width="860" height="150" as="alternateBounds" />
