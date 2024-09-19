@@ -62,6 +62,9 @@
         <mxCell id="lS37dKiJ8wTq1rKE8fun-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-2" source="lS37dKiJ8wTq1rKE8fun-48" target="lS37dKiJ8wTq1rKE8fun-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lS37dKiJ8wTq1rKE8fun-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-2" source="lS37dKiJ8wTq1rKE8fun-48" target="lS37dKiJ8wTq1rKE8fun-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lS37dKiJ8wTq1rKE8fun-48" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
           <mxGeometry x="570" y="146.3099999999999" width="30" height="30" as="geometry" />
         </mxCell>
@@ -79,6 +82,12 @@
         </mxCell>
         <mxCell id="lS37dKiJ8wTq1rKE8fun-58" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
           <mxGeometry x="760" y="146.31" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lS37dKiJ8wTq1rKE8fun-67" value="Fazer denuncia" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="550" y="64.74999999999997" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="lS37dKiJ8wTq1rKE8fun-69" value="Fala BR" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#00CC00;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="650" y="22" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2b4e8129b02d487f-3" value="Fab. e Import." style="swimlane;html=1;startSize=20;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1" collapsed="1">
           <mxGeometry y="230" width="860" height="30" as="geometry">
@@ -191,6 +200,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="675" y="279.81000000000006" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lS37dKiJ8wTq1rKE8fun-70" value="Suspenso: comercio regular, cancelado sair do mercado!!!" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="560" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lS37dKiJ8wTq1rKE8fun-71" value="Selo Verdadeiro&lt;div&gt;ou falso&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="130" y="690" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lS37dKiJ8wTq1rKE8fun-72" value="Registro Ativo - ok, Suspenso - ???, Cancelado - Não, Inativo - ok" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="690" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
