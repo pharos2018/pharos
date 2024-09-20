@@ -121,8 +121,14 @@
         </mxCell>
         <mxCell id="2b4e8129b02d487f-4" value="Pharos" style="swimlane;html=1;startSize=20;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1" collapsed="1">
           <mxGeometry y="320" width="860" height="30" as="geometry">
-            <mxRectangle y="440" width="860" height="150" as="alternateBounds" />
+            <mxRectangle y="320" width="860" height="150" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UZv3Vb-UR4CIhAYLGmYC-9" value="Data do Serviço!&amp;nbsp;&lt;div&gt;Vale 1 ano&lt;br&gt;&lt;div&gt;Cliente&lt;/div&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="690" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UZv3Vb-UR4CIhAYLGmYC-8" value="Ativação &lt;br&gt;Produto" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="630" y="430" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
