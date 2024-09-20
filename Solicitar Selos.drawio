@@ -126,6 +126,9 @@
         <mxCell id="MQ7IacnxqxFv1oiMvIU7-46" value="Iniciar as operações com os funcionários do INMETRO verificando..." style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="2b4e8129b02d487f-3">
           <mxGeometry x="1430" y="17" width="190" height="103" as="geometry" />
         </mxCell>
+        <mxCell id="MQ7IacnxqxFv1oiMvIU7-48" value="Número de Série &lt;br&gt;associado ao &lt;br&gt;QR Code ?&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="1620" y="33.5" width="190" height="103" as="geometry" />
+        </mxCell>
         <mxCell id="aDhuyLPjIug42rBXj7ye-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="2b4e8129b02d487f-1" source="2b4e8129b02d487f-6" target="aDhuyLPjIug42rBXj7ye-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="140" as="sourcePoint" />
